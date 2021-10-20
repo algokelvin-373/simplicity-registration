@@ -1,4 +1,4 @@
 # simplicity-registration
 The Library of Simplicity Registration
 
-`implementation 'com.github.kelvin373-ht:simplicity-registration:1.0.0`
+`implementation 'com.github.algokelvin-373:simplicity-registration:1.0.1'`
